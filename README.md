@@ -7,3 +7,7 @@ https://medium.com/@rafaelvidaurre/managing-environment-variables-in-node-js-2cb
 https://davidwalsh.name/node-environment-variables
 
 https://www.npmjs.com/package/dotenv
+
+# asynx await
+
+https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9
